@@ -14,7 +14,7 @@ It was designed for a high school workshop to engage teenagers in immersive desi
 
 ## Bill of materials
 
-###Tools
+### Tools
 
 **Arduino IDE with following installed**
  
