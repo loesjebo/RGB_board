@@ -32,6 +32,12 @@ You can either program the chip with Sparkfun's avr programmer [(see this hookup
 
 Or with an Arduino UNO microcontroller, a breadboard, and a bunch of dupont jumpers. [See this instructable](https://srituhobby.com/how-to-program-attiny85-with-arduino-uno-step-by-step/)
 
+**Hand tools**
+
+* Small flathead screwdriver to connect battery leads to screw terminal
+* Multimeter
+* Soldering iron and solder
+
 ### Components per board
 
 * [Solderable screw terminal (2 ports)](https://www.reichelt.nl/nl/nl/loetbare-schraubklemme-2-pol-rm-5-mm-90--ctb5202-2-p292669.html?&trstct=pol_12&nbc=1)
