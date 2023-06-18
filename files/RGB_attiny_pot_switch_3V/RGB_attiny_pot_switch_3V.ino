@@ -1,8 +1,10 @@
 //Loes Bogers - ArtechLAB
 //2023
 
+
+// Define RGB led pins
 #define red 0
-#define blue 1
+#define blue 1 
 #define green 4
 
 const int buttonPin = 2;
