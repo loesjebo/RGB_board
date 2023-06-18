@@ -133,7 +133,7 @@ Solder all parts to the boards following this diagram. Note the orientation of t
 * Connect the battery
 * Check if everything works (color changes with tshe knob and switch)
 
-[Example video here](./files/images/test/mp4)
+[Example video here](./files/test/mp4)
 
 ## Disconnect the battery to power off!
 
